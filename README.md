@@ -154,6 +154,7 @@ Projects marked with 🏆 are hackathon winners
 - **[Midnauction](https://github.com/eryxcoop/midnauction)** – Sealed-bid round-based auction platform
 - **[Hydra Stake](https://github.com/statera-protocol/hydra-stake-protocol)** - Hydra Stake Protocol is a privacy-preserving liquid staking solution built on Midnight blockchain. It allows users to stake their assets while maintaining liquidity through liquid staking tokens (LST), enabling participation in DeFi while earning staking rewards.
 - **[Gracias Esteban](https://github.com/nicolasLuduena/2025-hackathon-midnight)** – Decentralized asset tokenization platform, representing real-world assets as privacy-preserving digital shares.
+- **[Private Data Management](https://medium.com/itnext/private-data-management-using-decentralised-ledgers-b972c6855e48)** ([article](https://medium.com/itnext/private-data-management-using-decentralised-ledgers-b972c6855e48) / [repo](https://github.com/Edgxtech/pdm-demo-app)) – Private Data Management investigation and demonstration
 ---
 
 ## Contributing
